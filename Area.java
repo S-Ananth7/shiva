@@ -11,6 +11,5 @@ public static void main(String args[])
  double C_circumference = (double)( 2 * pie * radius);
  double C_area2 = (double)(pie * radius * radius);
  System.out.println("Rectangle: " + R_area1);
- System.out.println("Circle: " + C_area2);
-}
+ System.out.println("hello");
 }
